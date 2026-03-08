@@ -190,14 +190,23 @@ Visit: **http://localhost:5173** (Vite default port)
 
 ## 📸 Screenshots
 
-| View | Features |
-|---|---|
-| 🏠 **Boards View** | Grid view of all projects with dynamic cards and trash icons. |
-| 🛡️ **Activity Feed** | Global workspace history with user avatars and timestamps. |
-| 📋 **Project Board** | Horizontal lists, task cards with color labels, and status checks. |
-| 👤 **User Profile** | Cover photo customization, 2FA settings, and password reset. |
-| 🌙 **Dark Mode** | Full dark-themed immersion for night-time productivity. |
-| 📤 **Export Panel** | Professional icons and download options for data migration. |
+<table>
+  <tr>
+    <td><img src="frontend/screenshots/ss1.jpg" alt="Screenshot 1" width="100%"/></td>
+    <td><img src="frontend/screenshots/ss2.jpg" alt="Screenshot 2" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="frontend/screenshots/ss3.jpg" alt="Screenshot 3" width="100%"/></td>
+    <td><img src="frontend/screenshots/ss4.jpg" alt="Screenshot 4" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="frontend/screenshots/ss5.jpg" alt="Screenshot 5" width="100%"/></td>
+    <td><img src="frontend/screenshots/ss6.jpg" alt="Screenshot 6" width="100%"/></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="frontend/screenshots/ss7.jpg" alt="Screenshot 7" width="50%"/></td>
+  </tr>
+</table>
 
 ---
 
@@ -207,4 +216,4 @@ Visit: **http://localhost:5173** (Vite default port)
 
 ---
 
-<p align="center">🚀 Built with ❤️ using MERN Stack & Tailwind CSS 4</p>
+<p align="center">🚀 Built using MERN Stack & Tailwind CSS 4</p>
