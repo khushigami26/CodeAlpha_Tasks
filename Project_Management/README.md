@@ -204,10 +204,8 @@ Visit: **http://localhost:5173** (Vite default port)
     <td><img src="frontend/screenshots/ss6.jpg" alt="Screenshot 6" width="100%"/></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="frontend/screenshots/ss7.jpg" alt="Screenshot 7" width="50%"/></td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="frontend/screenshots/ss8.jpg" alt="Screenshot 8" width="50%"/></td>
+    <td><img src="frontend/screenshots/ss7.jpg" alt="Screenshot 7" width="100%"/></td>
+    <td><img src="frontend/screenshots/ss8.jpg" alt="Screenshot 8" width="100%"/></td>
   </tr>
 </table>
 
