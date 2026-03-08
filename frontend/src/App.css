@@ -1,0 +1,22 @@
+:root {
+  --bg-primary: #ffffff;
+  --bg-sidebar: #f7f8f9;
+  --text-primary: #172b4d;
+  --text-secondary: #44546f;
+  --border-color: #dfe1e6;
+}
+
+.dark {
+  --bg-primary: #1d2125;
+  --bg-sidebar: #161a1d;
+  --text-primary: #b6c2cf;
+  --text-secondary: #9fadbc;
+  --border-color: #333c44;
+}
+
+html,
+body {
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+}
